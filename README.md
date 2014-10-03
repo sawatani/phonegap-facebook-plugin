@@ -1,4 +1,5 @@
 # Apache Cordova Facebook Plugin
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sawatani/phonegap-facebook-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the official plugin for Facebook in Apache Cordova/PhoneGap!
 
